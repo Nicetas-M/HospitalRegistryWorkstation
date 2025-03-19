@@ -1,0 +1,489 @@
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.exe.config
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.exe
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.pdb
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Core.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Identity.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Buffers.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.Data.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Permissions.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Json.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.ValueTuple.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Core.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Identity.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Buffers.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.Data.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Permissions.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Json.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.ValueTuple.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Authorization.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Properties.Resources.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.CopyComplete
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.exe
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.pdb
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.MainButtonForm.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Schedules.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\EnvDTE.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\stdole.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.exe.config
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Schedules_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Appointments.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Appointments_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Statuses.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Statuses_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Qualifications.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Qualifications_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Specializations.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Specializations_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Offices.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Offices_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Contingents.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Contingents_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Dispensary_Groups.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Dispensary_Groups_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Genders.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Genders_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Services.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Services_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Users.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Cards.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Cards_Report.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Patients.resources
+C:\Users\nikit\source\repos\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Patients_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.exe.config
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Appointments.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Appointments_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Authorization.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Contingents.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Contingents_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Dispensary_Groups.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Dispensary_Groups_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Schedules_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Schedules.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Genders.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Genders_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.MainButtonForm.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Cards.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Cards_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Services.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Services_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Offices.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Offices_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Patients.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Patients_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Properties.Resources.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Qualifications.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Qualifications_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Specializations.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Specializations_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Statuses.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Statuses_Report.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Users.resources
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.GenerateResource.cache
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.exe
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.pdb
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.exe.config
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.exe
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.pdb
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Core.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Identity.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Buffers.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.Data.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Permissions.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Json.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.ValueTuple.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\EnvDTE.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\stdole.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Core.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Identity.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Buffers.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.Data.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Permissions.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Json.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.ValueTuple.xml
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nikit\Desktop\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.CopyComplete
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.exe.config
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.exe
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\АРМ реєстратури лікарні.pdb
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Core.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Identity.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Buffers.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.Data.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Numerics.Vectors.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.AccessControl.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Permissions.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Principal.Windows.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Encodings.Web.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Json.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.ValueTuple.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\EnvDTE.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\stdole.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Core.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Azure.Identity.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Buffers.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Memory.Data.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Numerics.Vectors.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.AccessControl.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Permissions.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Security.Principal.Windows.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Encodings.Web.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Text.Json.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\System.ValueTuple.xml
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.AssemblyReference.cache
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.SuggestedBindingRedirects.cache
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.exe.config
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Appointments.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Appointments_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Authorization.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Contingents.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Contingents_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Dispensary_Groups.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Dispensary_Groups_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Schedules_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Doctors_Schedules.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Genders.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Genders_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.MainButtonForm.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Cards.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Cards_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Services.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Medical_Services_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Offices.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Offices_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Patients.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Patients_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Properties.Resources.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Qualifications.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Qualifications_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Specializations.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Specializations_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Statuses.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Statuses_Report.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ_реєстратури_лікарні.Users.resources
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.GenerateResource.cache
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.CoreCompileInputs.cache
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.csproj.CopyComplete
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.exe
+D:\Универ (НУБіП України)\1 курс с. т\Курсовая БД (2 семестр)\АРМ реєстратури лікарні\АРМ реєстратури лікарні\АРМ реєстратури лікарні\obj\Debug\АРМ реєстратури лікарні.pdb
